@@ -28,32 +28,32 @@
     "Casos_Notificados": 81,
     "Casos_Positivos": 67,
     "Casos_Negativos": 16,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.2000633,
+    "longitude":-47.3882485
   },
   {
     "Bairro": "Eloisa",
     "Casos_Notificados": 84,
     "Casos_Positivos": 57,
     "Casos_Negativos": 34,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1952406,
+    "longitude": -47.3754935
   },
   {
     "Bairro": "Santa Marta",
     "Casos_Notificados": 70,
     "Casos_Positivos": 48,
     "Casos_Negativos": 17,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.2041849,
+    "longitude": -47.3805364
   },
   {
     "Bairro": "Adelina",
     "Casos_Notificados": 51,
     "Casos_Positivos": 38,
     "Casos_Negativos": 5,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1943926,
+    "longitude": -47.364844
   },
   {
     "Bairro": "Nova Leme",
@@ -88,12 +88,12 @@
     "longitude": -47.369344327041915
   },
   {
-    "Bairro": "Graminha",
+    "Bairro": "Graminha(imperial I)",
     "Casos_Notificados": 38,
     "Casos_Positivos": 12,
     "Casos_Negativos": 23,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1999972,
+    "longitude": -47.3621729
   },
   {
     "Bairro": "Imperial II",
@@ -108,16 +108,16 @@
     "Casos_Notificados": 34,
     "Casos_Positivos": 20,
     "Casos_Negativos": 5,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude":-22.1921536,
+    "longitude": -47.3768686
   },
   {
     "Bairro": "Santa Rita",
     "Casos_Notificados": 36,
     "Casos_Positivos": 24,
     "Casos_Negativos": 27,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1921515,
+    "longitude": -47.3955038
   },
   {
     "Bairro": "Centro",
@@ -132,56 +132,56 @@
     "Casos_Notificados": 32,
     "Casos_Positivos": 29,
     "Casos_Negativos": 7,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.2023195,
+    "longitude": -47.3738968
   },
   {
     "Bairro": "Isabel Cristina",
     "Casos_Notificados": 40,
     "Casos_Positivos": 21,
     "Casos_Negativos": 17,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.2057182,
+    "longitude": -47.3810442
   },
   {
     "Bairro": "São Jose",
     "Casos_Notificados": 25,
     "Casos_Positivos": 22,
     "Casos_Negativos": 23,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.2060852,
+    "longitude": -47.4074691
   },
   {
     "Bairro": "Ana Lucia",
     "Casos_Notificados": 25,
     "Casos_Positivos": 32,
     "Casos_Negativos": 15,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude":-22.1893791,
+    "longitude": -47.3664846
   },
   {
     "Bairro": "Grossklauss",
     "Casos_Notificados": 40,
     "Casos_Positivos": 28,
     "Casos_Negativos": 4,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1887302,
+    "longitude": -47.3790086
   },
   {
     "Bairro": "Ariana",
     "Casos_Notificados": 31,
     "Casos_Positivos": 23,
     "Casos_Negativos": 8,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1854762,
+    "longitude": -47.3706051
   },
   {
     "Bairro": "Eroise",
     "Casos_Notificados": 27,
     "Casos_Positivos": 11,
     "Casos_Negativos": 2,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1966682,
+    "longitude": -47.3922326
   },
   {
     "Bairro": "Palmeiras",
@@ -196,8 +196,8 @@
     "Casos_Notificados": 26,
     "Casos_Positivos": 9,
     "Casos_Negativos": 13,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1685179,
+    "longitude": -47.3834785
   },
   {
     "Bairro": "Cidade Jardim",
@@ -212,8 +212,8 @@
     "Casos_Notificados": 31,
     "Casos_Positivos": 20,
     "Casos_Negativos": 0,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1906436,
+    "longitude": -47.3649182
   },
   {
     "Bairro": "Barra Funda",
@@ -228,32 +228,32 @@
     "Casos_Notificados": 31,
     "Casos_Positivos": 15,
     "Casos_Negativos": 10,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.185596,
+    "longitude": -47.3764798
   },
   {
     "Bairro": "Santa Carolina",
     "Casos_Notificados": 11,
     "Casos_Positivos": 14,
     "Casos_Negativos": 6,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.2150468,
+    "longitude": -47.3858456
   },
   {
     "Bairro": "Santana",
     "Casos_Notificados": 23,
     "Casos_Positivos": 2,
     "Casos_Negativos": 8,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1841478,
+    "longitude": -47.3756552
   },
   {
     "Bairro": "Amalia",
     "Casos_Notificados": 25,
     "Casos_Positivos": 2,
     "Casos_Negativos": 13,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1911638,
+    "longitude": -47.3948879
   },
   {
     "Bairro": "Bosque",
@@ -284,8 +284,8 @@
     "Casos_Notificados": 14,
     "Casos_Positivos": 9,
     "Casos_Negativos": 15,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.2023712,
+    "longitude": -47.385443
   },
   {
     "Bairro": "Sumare",
@@ -308,56 +308,56 @@
     "Casos_Notificados": 11,
     "Casos_Positivos": 10,
     "Casos_Negativos": 13,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.2016588,
+    "longitude": -47.3780993
   },
   {
     "Bairro": "Bancaria",
     "Casos_Notificados": 17,
     "Casos_Positivos": 0,
     "Casos_Negativos": 0,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1933702,
+    "longitude": -47.3883477
   },
   {
     "Bairro": "Governador",
     "Casos_Notificados": 5,
     "Casos_Positivos": 0,
     "Casos_Negativos": 0,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1752887,
+    "longitude": -47.3691998
   },
   {
     "Bairro": "Nova Era",
     "Casos_Notificados": 7,
     "Casos_Positivos": 12,
     "Casos_Negativos": 11,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1967115,
+    "longitude":-47.3848292
   },
   {
     "Bairro": "Livia",
     "Casos_Notificados": 22,
     "Casos_Positivos": 3,
     "Casos_Negativos": 7,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1905201,
+    "longitude": -47.3656177
   },
   {
     "Bairro": "Do Sol",
     "Casos_Notificados": 1,
     "Casos_Positivos": 12,
     "Casos_Negativos": 13,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.2053316,
+    "longitude": -47.3935963
   },
   {
     "Bairro": "Cambuhy",
     "Casos_Notificados": 20,
     "Casos_Positivos": 12,
     "Casos_Negativos": 0,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.2125539,
+    "longitude": -47.3878018
   },
   {
     "Bairro": "Altos da Santa Rita",
@@ -372,200 +372,200 @@
     "Casos_Notificados": 1,
     "Casos_Positivos": 11,
     "Casos_Negativos": 11,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1804684,
+    "longitude":-47.4030935
   },
   {
     "Bairro": "Santa Maria",
     "Casos_Notificados": 4,
     "Casos_Positivos": 14,
     "Casos_Negativos": 1,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1998342,
+    "longitude": -47.4011937
   },
   {
     "Bairro": "Presidente",
     "Casos_Notificados": 19,
     "Casos_Positivos": 0,
     "Casos_Negativos": 7,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude":-22.1780197,
+    "longitude": -47.3787623
   },
   {
     "Bairro": "Victorio Bonfante",
     "Casos_Notificados": 18,
     "Casos_Positivos": 0,
     "Casos_Negativos": 12,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.163003,
+    "longitude": -47.3847522
   },
   {
     "Bairro": "Claudia",
     "Casos_Notificados": 18,
     "Casos_Positivos": 8,
     "Casos_Negativos": 0,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.2006113,
+    "longitude": -47.3977235
   },
   {
     "Bairro": "Renascenca",
     "Casos_Notificados": 3,
     "Casos_Positivos": 14,
     "Casos_Negativos": 6,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1960516,
+    "longitude": -47.4084175
   },
   {
     "Bairro": "Florida",
     "Casos_Notificados": 11,
     "Casos_Positivos": 0,
     "Casos_Negativos": 2,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1889397,
+    "longitude": -47.4016507
   },
   {
     "Bairro": "Alto da Boa Vista",
     "Casos_Notificados": 4,
     "Casos_Positivos": 0,
     "Casos_Negativos": 0,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1735616,
+    "longitude": -47.3582915
   },
   {
     "Bairro": "Travagin",
     "Casos_Notificados": 6,
     "Casos_Positivos": 9,
     "Casos_Negativos": 1,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.2094171,
+    "longitude": -47.3962376
   },
   {
     "Bairro": "Sao Joaquim",
     "Casos_Notificados": 15,
     "Casos_Positivos": 4,
     "Casos_Negativos": 3,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1653609,
+    "longitude": -47.3786189
   },
   {
     "Bairro": "Eldorado",
     "Casos_Notificados": 9,
     "Casos_Positivos": 3,
     "Casos_Negativos": 9,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1696087,
+    "longitude": -47.3747836
   },
   {
     "Bairro": "Nova Santa Rita",
     "Casos_Notificados": 6,
     "Casos_Positivos": 0,
     "Casos_Negativos": 11,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.193253,
+    "longitude": -47.3760761
   },
   {
     "Bairro": "Alto da Gloria",
     "Casos_Notificados": 11,
     "Casos_Positivos": 5,
     "Casos_Negativos": 8,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1673205,
+    "longitude": -47.3724924
   },
   {
     "Bairro": "Bela Vista",
     "Casos_Notificados": 0,
     "Casos_Positivos": 0,
     "Casos_Negativos": 0,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1907681,
+    "longitude": -47.3837998
   },
   {
     "Bairro": "Ypes",
     "Casos_Notificados": 5,
     "Casos_Positivos": 0,
     "Casos_Negativos": 12,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1983791,
+    "longitude": -47.3701736
   },
   {
     "Bairro": "Sao Rafael",
     "Casos_Notificados": 5,
     "Casos_Positivos": 9,
     "Casos_Negativos": 0,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1625478,
+    "longitude": -47.3869788
   },
   {
     "Bairro": "Capitolio",
     "Casos_Notificados": 14,
     "Casos_Positivos": 12,
     "Casos_Negativos": 6,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.195795,
+    "longitude": -47.4002476
   },
   {
     "Bairro": "Alvorada",
     "Casos_Notificados": 6,
     "Casos_Positivos": 5,
     "Casos_Negativos": 13,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1962608,
+    "longitude": -47.3811157
   },
   {
     "Bairro": "Bom Jesus",
     "Casos_Notificados": 0,
     "Casos_Positivos": 8,
     "Casos_Negativos": 0,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1955397,
+    "longitude": -47.3971492
   },
   {
     "Bairro": "Vanessa",
     "Casos_Notificados": 5,
     "Casos_Positivos": 5,
     "Casos_Negativos": 0,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.195385,
+    "longitude": -47.3653066
   },
   {
     "Bairro": "Caju",
     "Casos_Notificados": 14,
     "Casos_Positivos": 0,
     "Casos_Negativos": 0,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1746927,
+    "longitude": -47.2032696
   },
   {
     "Bairro": "Santa Ines",
     "Casos_Notificados": 11,
     "Casos_Positivos": 1,
     "Casos_Negativos": 9,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1842966,
+    "longitude": -47.3983716
   },
   {
     "Bairro": "São Francisco",
     "Casos_Notificados": 2,
     "Casos_Positivos": 0,
     "Casos_Negativos": 0,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1859052,
+    "longitude": -47.3829929
   },
   {
     "Bairro": "Angelica I",
     "Casos_Notificados": 1,
     "Casos_Positivos": 8,
     "Casos_Negativos": 12,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1582295,
+    "longitude": -47.372554
   },
   {
     "Bairro": "Rocco Lenci",
     "Casos_Notificados": 1,
     "Casos_Positivos": 0,
     "Casos_Negativos": 6,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1757917,
+    "longitude": -47.3743309
   },
   {
     "Bairro": "Sitio",
@@ -580,16 +580,16 @@
     "Casos_Notificados": 1,
     "Casos_Positivos": 0,
     "Casos_Negativos": 6,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1569119,
+    "longitude": -47.3748523
   },
   {
     "Bairro": "Silvana",
     "Casos_Notificados": 7,
     "Casos_Positivos": 4,
     "Casos_Negativos": 2,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1933648,
+    "longitude": -47.4056594
   },
   {
     "Bairro": "Anteghini",
@@ -604,24 +604,24 @@
     "Casos_Notificados": 4,
     "Casos_Positivos": 5,
     "Casos_Negativos": 0,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1726495,
+    "longitude": -47.3843337
   },
   {
     "Bairro": "Taquari Ponte",
     "Casos_Notificados": 0,
     "Casos_Positivos": 5,
     "Casos_Negativos": 11,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.0969941,
+    "longitude": -47.2542189
   },
   {
     "Bairro": "Juana",
     "Casos_Notificados": 0,
     "Casos_Positivos": 4,
     "Casos_Negativos": 10,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1822097,
+    "longitude":-47.3766604
   },
   {
     "Bairro": "Joest",
@@ -636,8 +636,8 @@
     "Casos_Notificados": 5,
     "Casos_Positivos": 0,
     "Casos_Negativos": 0,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1784342,
+    "longitude": -47.3803379
   },
   {
     "Bairro": "Parque",
@@ -652,8 +652,8 @@
     "Casos_Notificados": 0,
     "Casos_Positivos": 0,
     "Casos_Negativos": 0,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1815176,
+    "longitude": -47.4114292
   },
   {
     "Bairro": "Florença",
@@ -668,16 +668,16 @@
     "Casos_Notificados": 3,
     "Casos_Positivos": 7,
     "Casos_Negativos": 6,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1930572,
+    "longitude": -47.4105638
   },
   {
     "Bairro": "Sao Joao",
     "Casos_Notificados": 0,
     "Casos_Positivos": 0,
     "Casos_Negativos": 0,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1775186,
+    "longitude": -47.3945296
   },
   {
     "Bairro": "Shangrila",
@@ -692,24 +692,24 @@
     "Casos_Notificados": 9,
     "Casos_Positivos": 0,
     "Casos_Negativos": 5,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.189005,
+    "longitude": -47.4027441
   },
   {
     "Bairro": "Villagio D Italia",
     "Casos_Notificados": 5,
     "Casos_Positivos": 0,
     "Casos_Negativos": 9,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1852052,
+    "longitude": -47.4124848
   },
   {
     "Bairro": "Sao Jorge",
     "Casos_Notificados": 0,
     "Casos_Positivos": 6,
     "Casos_Negativos": 0,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1726495,
+    "longitude": -47.3843337
   },
   {
     "Bairro": "Sete Lagoas",
@@ -724,24 +724,24 @@
     "Casos_Notificados": 0,
     "Casos_Positivos": 0,
     "Casos_Negativos": 5,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1752415,
+    "longitude": -47.4092468
   },
   {
     "Bairro": "Vila Rica",
     "Casos_Notificados": 10,
     "Casos_Positivos": 11,
     "Casos_Negativos": 7,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude":-22.1801657,
+    "longitude": -47.4254274
   },
   {
     "Bairro": "Vista Alegre",
     "Casos_Notificados": 6,
     "Casos_Positivos": 0,
     "Casos_Negativos": 0,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1762188,
+    "longitude": -47.3797388
   },
   {
     "Bairro": "                                               ",
@@ -756,8 +756,8 @@
     "Casos_Notificados": 3,
     "Casos_Positivos": 0,
     "Casos_Negativos": 2,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1882704,
+    "longitude":-47.3887045
   },
   {
     "Bairro": "Universitario",
@@ -876,8 +876,8 @@
     "Casos_Notificados": 0,
     "Casos_Positivos": 7,
     "Casos_Negativos": 0,
-    "latitude": 0.0,
-    "longitude": 0.0
+    "latitude": -22.1617154,
+    "longitude":-47.2919812
   },
   {
     "Bairro": "Chacara da Saude",
