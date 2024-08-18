@@ -1,0 +1,906 @@
+[
+  {
+    "Bairro": "Empyreo",
+    "Casos_Notificados": 138,
+    "Casos_Positivos": 69,
+    "Casos_Negativos": 77,
+    "latitude": -22.207942491774645,
+    "longitude": -47.374541349612066
+  },
+  {
+    "Bairro": "Quaglia",
+    "Casos_Notificados": 131,
+    "Casos_Positivos": 69,
+    "Casos_Negativos": 52,
+    "latitude": -22.189256634588613,
+    "longitude": -47.35785233548939
+  },
+  {
+    "Bairro": "Itamaraty",
+    "Casos_Notificados": 121,
+    "Casos_Positivos": 65,
+    "Casos_Negativos": 43,
+    "latitude": -22.185109433724193,
+    "longitude": -47.36945146299002
+  },
+  {
+    "Bairro": "Santa Paula",
+    "Casos_Notificados": 81,
+    "Casos_Positivos": 67,
+    "Casos_Negativos": 16,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Eloisa",
+    "Casos_Notificados": 84,
+    "Casos_Positivos": 57,
+    "Casos_Negativos": 34,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Santa Marta",
+    "Casos_Notificados": 70,
+    "Casos_Positivos": 48,
+    "Casos_Negativos": 17,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Adelina",
+    "Casos_Notificados": 51,
+    "Casos_Positivos": 38,
+    "Casos_Negativos": 5,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Nova Leme",
+    "Casos_Notificados": 43,
+    "Casos_Positivos": 39,
+    "Casos_Negativos": 16,
+    "latitude": -22.19156717529657,
+    "longitude": -47.40451269034384
+  },
+  {
+    "Bairro": "Saulo",
+    "Casos_Notificados": 55,
+    "Casos_Positivos": 42,
+    "Casos_Negativos": 5,
+    "latitude": -22.205079327181007,
+    "longitude": -47.38100435930505
+  },
+  {
+    "Bairro": "Imperial",
+    "Casos_Notificados": 38,
+    "Casos_Positivos": 18,
+    "Casos_Negativos": 27,
+    "latitude": -22.199737213252057,
+    "longitude": -47.363508919406165
+  },
+  {
+    "Bairro": "Primavera",
+    "Casos_Notificados": 52,
+    "Casos_Positivos": 13,
+    "Casos_Negativos": 26,
+    "latitude": -22.17576271508602,
+    "longitude": -47.369344327041915
+  },
+  {
+    "Bairro": "Graminha",
+    "Casos_Notificados": 38,
+    "Casos_Positivos": 12,
+    "Casos_Negativos": 23,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Imperial II",
+    "Casos_Notificados": 50,
+    "Casos_Positivos": 37,
+    "Casos_Negativos": 15,
+    "latitude": -22.199719748141376,
+    "longitude": -47.359128181522856
+  },
+  {
+    "Bairro": "Bonsucesso",
+    "Casos_Notificados": 34,
+    "Casos_Positivos": 20,
+    "Casos_Negativos": 5,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Santa Rita",
+    "Casos_Notificados": 36,
+    "Casos_Positivos": 24,
+    "Casos_Negativos": 27,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Centro",
+    "Casos_Notificados": 46,
+    "Casos_Positivos": 17,
+    "Casos_Negativos": 21,
+    "latitude": -22.184510025328887,
+    "longitude": -47.389362088448216
+  },
+  {
+    "Bairro": "Francisco Coelho",
+    "Casos_Notificados": 32,
+    "Casos_Positivos": 29,
+    "Casos_Negativos": 7,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Isabel Cristina",
+    "Casos_Notificados": 40,
+    "Casos_Positivos": 21,
+    "Casos_Negativos": 17,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "São Jose",
+    "Casos_Notificados": 25,
+    "Casos_Positivos": 22,
+    "Casos_Negativos": 23,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Ana Lucia",
+    "Casos_Notificados": 25,
+    "Casos_Positivos": 32,
+    "Casos_Negativos": 15,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Grossklauss",
+    "Casos_Notificados": 40,
+    "Casos_Positivos": 28,
+    "Casos_Negativos": 4,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Ariana",
+    "Casos_Notificados": 31,
+    "Casos_Positivos": 23,
+    "Casos_Negativos": 8,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Eroise",
+    "Casos_Notificados": 27,
+    "Casos_Positivos": 11,
+    "Casos_Negativos": 2,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Palmeiras",
+    "Casos_Notificados": 36,
+    "Casos_Positivos": 14,
+    "Casos_Negativos": 21,
+    "latitude": -22.166746650642942,
+    "longitude": -47.37923398757131
+  },
+  {
+    "Bairro": "São Manoel",
+    "Casos_Notificados": 26,
+    "Casos_Positivos": 9,
+    "Casos_Negativos": 13,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Cidade Jardim",
+    "Casos_Notificados": 36,
+    "Casos_Positivos": 22,
+    "Casos_Negativos": 0,
+    "latitude": -22.17223432122158,
+    "longitude": -47.39329799408018
+  },
+  {
+    "Bairro": "Jequitiba",
+    "Casos_Notificados": 31,
+    "Casos_Positivos": 20,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Barra Funda",
+    "Casos_Notificados": 18,
+    "Casos_Positivos": 18,
+    "Casos_Negativos": 23,
+    "latitude": -22.185223405668914,
+    "longitude": -47.369458034547364
+  },
+  {
+    "Bairro": "Nova Granada",
+    "Casos_Notificados": 31,
+    "Casos_Positivos": 15,
+    "Casos_Negativos": 10,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Santa Carolina",
+    "Casos_Notificados": 11,
+    "Casos_Positivos": 14,
+    "Casos_Negativos": 6,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Santana",
+    "Casos_Notificados": 23,
+    "Casos_Positivos": 2,
+    "Casos_Negativos": 8,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Amalia",
+    "Casos_Notificados": 25,
+    "Casos_Positivos": 2,
+    "Casos_Negativos": 13,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Bosque",
+    "Casos_Notificados": 15,
+    "Casos_Positivos": 11,
+    "Casos_Negativos": 10,
+    "latitude": -22.183457826909606,
+    "longitude": -47.40119154476906
+  },
+  {
+    "Bairro": "Pavan",
+    "Casos_Notificados": 13,
+    "Casos_Positivos": 9,
+    "Casos_Negativos": 15,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Serelepe",
+    "Casos_Notificados": 16,
+    "Casos_Positivos": 4,
+    "Casos_Negativos": 18,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "São Joaquim",
+    "Casos_Notificados": 14,
+    "Casos_Positivos": 9,
+    "Casos_Negativos": 15,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Sumare",
+    "Casos_Notificados": 20,
+    "Casos_Positivos": 8,
+    "Casos_Negativos": 9,
+    "latitude": -22.170321310678247,
+    "longitude": -47.38099562434955
+  },
+  {
+    "Bairro": "Leticia",
+    "Casos_Notificados": 11,
+    "Casos_Positivos": 16,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Mariana",
+    "Casos_Notificados": 11,
+    "Casos_Positivos": 10,
+    "Casos_Negativos": 13,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Bancaria",
+    "Casos_Notificados": 17,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Governador",
+    "Casos_Notificados": 5,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Nova Era",
+    "Casos_Notificados": 7,
+    "Casos_Positivos": 12,
+    "Casos_Negativos": 11,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Livia",
+    "Casos_Notificados": 22,
+    "Casos_Positivos": 3,
+    "Casos_Negativos": 7,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Do Sol",
+    "Casos_Notificados": 1,
+    "Casos_Positivos": 12,
+    "Casos_Negativos": 13,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Cambuhy",
+    "Casos_Notificados": 20,
+    "Casos_Positivos": 12,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Altos da Santa Rita",
+    "Casos_Notificados": 19,
+    "Casos_Positivos": 13,
+    "Casos_Negativos": 6,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Santucci",
+    "Casos_Notificados": 1,
+    "Casos_Positivos": 11,
+    "Casos_Negativos": 11,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Santa Maria",
+    "Casos_Notificados": 4,
+    "Casos_Positivos": 14,
+    "Casos_Negativos": 1,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Presidente",
+    "Casos_Notificados": 19,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 7,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Victorio Bonfante",
+    "Casos_Notificados": 18,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 12,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Claudia",
+    "Casos_Notificados": 18,
+    "Casos_Positivos": 8,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Renascenca",
+    "Casos_Notificados": 3,
+    "Casos_Positivos": 14,
+    "Casos_Negativos": 6,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Florida",
+    "Casos_Notificados": 11,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 2,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Alto da Boa Vista",
+    "Casos_Notificados": 4,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Travagin",
+    "Casos_Notificados": 6,
+    "Casos_Positivos": 9,
+    "Casos_Negativos": 1,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Sao Joaquim",
+    "Casos_Notificados": 15,
+    "Casos_Positivos": 4,
+    "Casos_Negativos": 3,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Eldorado",
+    "Casos_Notificados": 9,
+    "Casos_Positivos": 3,
+    "Casos_Negativos": 9,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Nova Santa Rita",
+    "Casos_Notificados": 6,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 11,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Alto da Gloria",
+    "Casos_Notificados": 11,
+    "Casos_Positivos": 5,
+    "Casos_Negativos": 8,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Bela Vista",
+    "Casos_Notificados": 0,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Ypes",
+    "Casos_Notificados": 5,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 12,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Sao Rafael",
+    "Casos_Notificados": 5,
+    "Casos_Positivos": 9,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Capitolio",
+    "Casos_Notificados": 14,
+    "Casos_Positivos": 12,
+    "Casos_Negativos": 6,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Alvorada",
+    "Casos_Notificados": 6,
+    "Casos_Positivos": 5,
+    "Casos_Negativos": 13,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Bom Jesus",
+    "Casos_Notificados": 0,
+    "Casos_Positivos": 8,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Vanessa",
+    "Casos_Notificados": 5,
+    "Casos_Positivos": 5,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Caju",
+    "Casos_Notificados": 14,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Santa Ines",
+    "Casos_Notificados": 11,
+    "Casos_Positivos": 1,
+    "Casos_Negativos": 9,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "São Francisco",
+    "Casos_Notificados": 2,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Angelica I",
+    "Casos_Notificados": 1,
+    "Casos_Positivos": 8,
+    "Casos_Negativos": 12,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Rocco Lenci",
+    "Casos_Notificados": 1,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 6,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Sitio",
+    "Casos_Notificados": 0,
+    "Casos_Positivos": 6,
+    "Casos_Negativos": 6,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Angelica II",
+    "Casos_Notificados": 1,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 6,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Silvana",
+    "Casos_Notificados": 7,
+    "Casos_Positivos": 4,
+    "Casos_Negativos": 2,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Anteghini",
+    "Casos_Notificados": 12,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 7,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "São Jorge",
+    "Casos_Notificados": 4,
+    "Casos_Positivos": 5,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Taquari Ponte",
+    "Casos_Notificados": 0,
+    "Casos_Positivos": 5,
+    "Casos_Negativos": 11,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Juana",
+    "Casos_Notificados": 0,
+    "Casos_Positivos": 4,
+    "Casos_Negativos": 10,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Joest",
+    "Casos_Notificados": 9,
+    "Casos_Positivos": 3,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Casarao",
+    "Casos_Notificados": 5,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Parque",
+    "Casos_Notificados": 9,
+    "Casos_Positivos": 1,
+    "Casos_Negativos": 3,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Vale Verde",
+    "Casos_Notificados": 0,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Florença",
+    "Casos_Notificados": 8,
+    "Casos_Positivos": 4,
+    "Casos_Negativos": 8,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Nova leme",
+    "Casos_Notificados": 3,
+    "Casos_Positivos": 7,
+    "Casos_Negativos": 6,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Sao Joao",
+    "Casos_Notificados": 0,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Shangrila",
+    "Casos_Notificados": 8,
+    "Casos_Positivos": 11,
+    "Casos_Negativos": 5,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Retiro Velho",
+    "Casos_Notificados": 9,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 5,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Villagio D Italia",
+    "Casos_Notificados": 5,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 9,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Sao Jorge",
+    "Casos_Notificados": 0,
+    "Casos_Positivos": 6,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Sete Lagoas",
+    "Casos_Notificados": 1,
+    "Casos_Positivos": 2,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Clube do Bosque",
+    "Casos_Notificados": 0,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 5,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Vila Rica",
+    "Casos_Notificados": 10,
+    "Casos_Positivos": 11,
+    "Casos_Negativos": 7,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Vista Alegre",
+    "Casos_Notificados": 6,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "                                               ",
+    "Casos_Notificados": 10,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Terezinha",
+    "Casos_Notificados": 3,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 2,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Universitario",
+    "Casos_Notificados": 9,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 4,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Vila Verde",
+    "Casos_Notificados": 3,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 4,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Tufanin",
+    "Casos_Notificados": 4,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Nova Lerme",
+    "Casos_Notificados": 0,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 4,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "São Joao",
+    "Casos_Notificados": 4,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Sao Francisco",
+    "Casos_Notificados": 7,
+    "Casos_Positivos": 6,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "santa Marta",
+    "Casos_Notificados": 1,
+    "Casos_Positivos": 9,
+    "Casos_Negativos": 9,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Rural",
+    "Casos_Notificados": 0,
+    "Casos_Positivos": 2,
+    "Casos_Negativos": 2,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Recanto da Colina",
+    "Casos_Notificados": 11,
+    "Casos_Positivos": 3,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Portal do Bosque",
+    "Casos_Notificados": 3,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Novo Horizonte",
+    "Casos_Notificados": 10,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 9,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Ibicatu",
+    "Casos_Notificados": 10,
+    "Casos_Positivos": 6,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Dibi",
+    "Casos_Notificados": 9,
+    "Casos_Positivos": 5,
+    "Casos_Negativos": 5,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Crishmara",
+    "Casos_Notificados": 0,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 3,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Cresciumal",
+    "Casos_Notificados": 0,
+    "Casos_Positivos": 7,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Chacara da Saude",
+    "Casos_Notificados": 0,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 7,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "Antares /Maceio",
+    "Casos_Notificados": 0,
+    "Casos_Positivos": 1,
+    "Casos_Negativos": 0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "Bairro": "POSITIVO  A",
+    "Casos_Notificados": 0,
+    "Casos_Positivos": 0,
+    "Casos_Negativos": 5,
+    "latitude": 0.0,
+    "longitude": 0.0
+  }
+]
